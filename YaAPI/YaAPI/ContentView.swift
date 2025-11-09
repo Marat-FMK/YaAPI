@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!") // start project
+            //day 2 first api translater 
         }
         .padding()
     }
