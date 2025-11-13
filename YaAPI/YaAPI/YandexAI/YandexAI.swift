@@ -8,5 +8,9 @@
 import Foundation
 
 class AI {
-    // 
+    //
+    //Yandex AI
+    
 }
+
+// singltone ?
