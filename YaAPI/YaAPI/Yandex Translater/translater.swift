@@ -9,4 +9,6 @@ import Foundation
 
 class Translater {
     let url = ""
+    
+    // наши весь транслейтер по инструкции фяндекс
 }
