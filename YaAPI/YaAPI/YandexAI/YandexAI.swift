@@ -10,7 +10,7 @@ import Foundation
 class AI {
     //
     //Yandex AI
-    
+    // тут будет код искусственного интерелката
 }
 
 // singltone ?
